@@ -1,1 +1,1 @@
-# reactjs-change-background-color-slider
+# ReactJs-change-background-color-slider
